@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wanabanda
-- 👀 I’m interested in game development and devops
-- 🌱 I’m currently learning app and game development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game development and programming
+- 🌱 I’m currently learning unity 3d and rpg core combats
+- 💞️ I’m looking to collaborate on game dev projects
 - 📫 How to reach me wanalbanda@gmail.com
 
 <!---
