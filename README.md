@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanabanda
 - 👀 I’m interested in game programming and game development
-- 🌱 I’m currently learning unity 3d and rpg core combats
+- 🌱 I’m currently learning full-stack developement with blackcodher, unity 3d and rpg core combats 
 - 💞️ I’m looking to collaborate on game dev/ect projects
 - 📫 How to reach me wanalbanda@gmail.com
 
